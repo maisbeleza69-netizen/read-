@@ -1,5 +1,4 @@
 
-(https://github.com/user-attachments/files/25855095/index.html.2)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
