@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
@@ -230,4 +230,5 @@ modernas e suporte técnico especializado.
 <a class="whatsapp" href="https://wa.me/5561999999999">💬</a>
 
 </body>
+
 </html>
