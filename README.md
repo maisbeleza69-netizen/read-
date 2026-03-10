@@ -1,4 +1,4 @@
-
+[index.html](https://github.com/user-attachments/files/25855763/index.html)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -208,12 +208,12 @@ modernas e suporte técnico especializado.
 <br>
 
 <p><b>Telefone / WhatsApp</b></p>
-<p>(61) 99999-9999</p>
+<p>(61) 99331-9562</p>
 
 <br>
 
 <p><b>Email</b></p>
-<p>contato@valletech.com</p>
+<p>edimundopereira47@gmail.com</p>
 
 <br>
 
@@ -228,7 +228,7 @@ modernas e suporte técnico especializado.
 
 </footer>
 
-<a class="whatsapp" href="https://wa.me/5561999999999">💬</a>
+<a class="whatsapp" href="https://wa.me/5561993319562">💬</a>
 
 </body>
 </html>
